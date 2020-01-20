@@ -3,9 +3,9 @@ set -f
 
 # LIST are the list of characters to try
 LIST1="A B C D E F G H I J K L M N O P Q R S T U V W X Y Z"
-LIST2="A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z ~ @ # $ % ^ * _ - + = [ ] { } \  ; :  . , / ? 0 1 2 3 4 5 6 7 8 9"
-LIST3="A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z ~ @ # $ % ^ * _ - + = [ ] { } \  ; :  . , / ? 0 1 2 3 4 5 6 7 8 9"
-LIST4="A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z ~ @ # $ % ^ * _ - + = [ ] { } \  ; :  . , / ? 0 1 2 3 4 5 6 7 8 9"
+LIST2="0 1 2 3 4 5 6 7 8 9"
+LIST3="a b c d e f g h i j k l m n o p q r s t u v w x y z"
+LIST4="~ @ # $ % ^ * _ + - = { } [ ] ? ; :"
 LIST5="~ @ # $ % ^ * _ + - = { } [ ] ? ; :"
 
 
